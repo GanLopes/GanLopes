@@ -1,16 +1,14 @@
-### Hi there 👋
+𝐴𝑚𝑜𝑟𝑔𝑎𝑛
+  ele/dele
+ 『é questão de tempo até ser intocável.』
 
-<!--
-**GanLopes/GanLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂– 18 Anos
+🇧🇷 – São Paulo
+📚- Iniciante na programação, mas trabalhando para ser melhor.
+📍- Estudante da FIAP (ADS)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alguns gostos pessoais:
+🎮 Games
+📽️ Cinema
+🎶 MPB/Rock/Pop
+🍥 Mangás
