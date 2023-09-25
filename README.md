@@ -2,9 +2,9 @@
   ele/dele
  『é questão de tempo até ser intocável.』
 
-🎂– 18 Anos
-🇧🇷 – São Paulo
-📚- Iniciante na programação, mas trabalhando para ser melhor.
+🎂– 18 Anos -
+🇧🇷 – São Paulo -
+📚- Iniciante na programação, mas trabalhando para ser melhor. -
 📍- Estudante da FIAP (ADS)
 
 
