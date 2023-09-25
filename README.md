@@ -2,6 +2,8 @@
   ele/dele
  『é questão de tempo até ser intocável.』
 
+  aqui está meu email para contato: amorgancttgmail.com
+
 🎂– 18 Anos -
 🇧🇷 – São Paulo -
 📚- Iniciante na programação, mas trabalhando para ser melhor. -
