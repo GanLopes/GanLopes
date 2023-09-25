@@ -1,6 +1,5 @@
 𝐴𝑚𝑜𝑟𝑔𝑎𝑛
   ele/dele
- 『é questão de tempo até ser intocável.』
 
 🎂– 18 Anos -
 🇧🇷 – São Paulo -
@@ -14,7 +13,7 @@ Alguns gostos pessoais:
 🎶 MPB/Rock/Pop
 🍥 Mangás
 
-E aqui está meu email para contato: amorgancttgmail.com
+E aqui está meu email para contato: amorganctt@gmail.com
 
 
 __________________________________________________________________________________________________________________________________________
