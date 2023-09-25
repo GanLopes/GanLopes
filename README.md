@@ -21,7 +21,6 @@ ________________________________________________________________________________
     
   ![Inventario:](https://github-readme-stats.vercel.app/api?username=GanLopes&show_icons=true&theme=midnight-purple)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGodoi7&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img align="right" alt="Vini-guts" height="230" width="230" src="https://tenor.com/pt-BR/view/gear-5-gear-5-luffy-monkey-d-luffy-luffy-luffy-gear-5-white-gif-12225526310195709408.gif">
 </div>
 __________________________________________________________________________________________________________________________________________
 <div style="display: inline_block"><br>
@@ -32,6 +31,7 @@ ________________________________________________________________________________
   <img align="center" alt="Gan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Vini-guts" height="230" width="230" src="https://tenor.com/pt-BR/view/gear-5-gear-5-luffy-monkey-d-luffy-luffy-luffy-gear-5-white-gif-12225526310195709408.gif">
 </div>
 
 __________________________________________________________________________________________________________________________________________
