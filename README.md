@@ -6,13 +6,6 @@
 📚- Iniciante na programação, mas trabalhando para ser melhor. -
 📍- Estudante da FIAP (ADS)
 
-
-Alguns gostos pessoais:
-🎮 Games
-📽️ Cinema
-🎶 MPB/Rock/Pop
-🍥 Mangás
-
 E aqui está meu email para contato: amorganctt@gmail.com
 
 
