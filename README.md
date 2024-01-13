@@ -1,7 +1,7 @@
 𝐴𝑚𝑜𝑟𝑔𝑎𝑛
   ele/dele
 
-🎂– 18 Anos -
+🎂 – 19 Anos -
 🇧🇷 – São Paulo -
 📚- Iniciante na programação, mas trabalhando para ser melhor. -
 📍- Estudante da FIAP (ADS)
