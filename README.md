@@ -1,5 +1,5 @@
 
-,𝐴𝑚𝑜𝑟𝑔𝑎𝑛
+𝐴𝑚𝑜𝑟𝑔𝑎𝑛
   ele/dele
 
 🎂 – 19 Anos -
@@ -39,7 +39,6 @@ ________________________________________________________________________________
   <img align="center" alt="Gan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gan-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Gan-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
- 
 </div>
 
 **Outros Comhecimentos**
