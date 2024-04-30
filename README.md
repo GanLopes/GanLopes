@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 </br>
 
-**Outros Comhecimentos**
+**Outros Conhecimentos**
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Gan-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
