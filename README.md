@@ -16,7 +16,7 @@ ________________________________________________________________________________
   <a href="https://github.com/GanLopes">
     
   ![Inventario:](https://github-readme-stats.vercel.app/api?username=GanLopes&show_icons=true&theme=midnight-purple)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGodoi7&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanLopes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 __________________________________________________________________________________________________________________________________________
