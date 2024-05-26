@@ -4,7 +4,7 @@
 
 🎂 – 19 Anos -
 🇧🇷 – São Paulo -
-📚- Iniciante na programação, mas trabalhando para ser melhor. -
+📚- Buscando minha primeira experiencia profissional e trabalhando para ser melhor. -
 📍- Estudante da FIAP (ADS)
 
 E aqui está meu email para contato: amorganctt@gmail.com
