@@ -56,6 +56,7 @@ ________________________________________________________________________________
 <img align="center" alt="Gan-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
 <img align="center" alt="Gan-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 <img align="center" alt="Gan-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="center" alt="Gan-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="right" alt="Gan-smile" height="230" width="230" src="https://tenor.com/pt-BR/view/gear-5-gear-5-luffy-monkey-d-luffy-luffy-luffy-gear-5-white-gif-12225526310195709408.gif">
 </div>
 </br>
